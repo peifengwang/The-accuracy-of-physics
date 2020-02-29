@@ -1,0 +1,1 @@
+Physics theories modeling physics realities are studied within the framework of set theory. It is shown that, only countable sets can be explicitly expressed in theory. If a physics reality comprises uncountable set, physics theories will not be able to accurately represent the reality to the full extent.
